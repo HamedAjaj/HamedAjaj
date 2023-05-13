@@ -37,8 +37,8 @@
 ![SQL Server](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=SqlServer)&nbsp;
 ![C/#](https://img.shields.io/badge/-CSharpe%20-05122A?style=flat&logo=CSharpe)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
+![C](https://img.shields.io/badge/-C%20-05122A?style=flat&logo=C)&nbsp;
 
 
 
